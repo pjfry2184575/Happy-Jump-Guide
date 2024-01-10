@@ -1,5 +1,3 @@
-# PlanEx
-
 <details>
   <summary>Badges</summary>
   <p align="center">
