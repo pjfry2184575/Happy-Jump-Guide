@@ -14,7 +14,7 @@
   <p align="center">
     Torn City<br>
     <a href="https://www.torn.com/2184575"><img src="https://www.torn.com/signature.php?id=3&user=2184575" alt="Torn City Signature"></a>
-or
-[![TC-ESSENTIALS](https://dcbadge.vercel.app/api/server/XdunSgj5be)](https://discord.gg/XdunSgj5be)
+or<br>
+![TC-ESSENTIALS](https://dcbadge.vercel.app/api/server/XdunSgj5be)](https://discord.gg/XdunSgj5be)
   </p>
 </details>
