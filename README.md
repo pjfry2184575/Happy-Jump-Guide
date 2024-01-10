@@ -4,7 +4,7 @@
 <details>
   <summary>Badges</summary>
   <p align="center">
-<ul>[![Netlify Status](https://api.netlify.com/api/v1/badges/97101fdf-0136-4b5f-800a-d9ef7339c034/deploy-status)](https://app.netlify.com/sites/happy-jump-guide/deploys) </br>
+<ul>![Netlify Status](https://api.netlify.com/api/v1/badges/97101fdf-0136-4b5f-800a-d9ef7339c034/deploy-status)](https://app.netlify.com/sites/happy-jump-guide/deploys) </br>
  </br>
  </br>
  </ul>
