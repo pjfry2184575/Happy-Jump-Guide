@@ -15,6 +15,6 @@
     Torn City<br>
     <a href="https://www.torn.com/2184575"><img src="https://www.torn.com/signature.php?id=3&user=2184575" alt="Torn City Signature"></a>
     <br>
-    [![TC-ESSENTIALS](https://discord.com/api/guilds/787063703025162507/widget.png)](https://discord.gg/XdunSgj5be)
+    [![TC-ESSENTIALS](https://img.shields.io/discord/787063703025162507?label=TC-ESSENTIALS&logo=discord&logoColor=white)](https://discord.gg/XdunSgj5be)
   </p>
 </details>
