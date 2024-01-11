@@ -5,7 +5,6 @@
   <p align="center">
     <img src="https://api.netlify.com/api/v1/badges/97101fdf-0136-4b5f-800a-d9ef7339c034/deploy-status" alt="Netlify Status">
     <br>
- 
   </p>
 </details>
 
@@ -15,8 +14,9 @@
     Torn City<br>
     <a href="https://www.torn.com/2184575"><img src="https://www.torn.com/signature.php?id=3&user=2184575" alt="Torn City Signature"></a>
     <br><br>
-Discord<br>
-      <img src="https://dcbadge.vercel.app/api/shield/459644548541448212?style=flat" alt="Phillip_J_Fry">
-<br> [![TC-ESSENTIALS](https://img.shields.io/discord/787063703025162507?label=TC-ESSENTIALS&logo=discord&logoColor=white)](https://discord.gg/XdunSgj5be)
+    Discord<br>
+    <img src="https://dcbadge.vercel.app/api/shield/459644548541448212?style=flat" alt="Phillip_J_Fry">
+    <br>
+    [![TC-ESSENTIALS](https://img.shields.io/discord/787063703025162507?label=TC-ESSENTIALS&logo=discord&logoColor=white)](https://discord.gg/XdunSgj5be)
   </p>
 </details>
