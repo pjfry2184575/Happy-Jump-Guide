@@ -15,9 +15,9 @@
     <a href="https://www.torn.com/2184575"><img src="https://www.torn.com/signature.php?id=3&user=2184575" alt="Torn City Signature"></a>
     <br><br>
     Discord<br>
-   <img src="https://dcbadge.vercel.app/api/shield/459644548541448212?style=flat" alt="Phillip_J_Fry">
-<br>
-    <img src="https://img.shields.io/discord/XdunSgj5be?label=TC-ESSENTIALS&logo=discord&logoColor=bruple&style=flat">
+    <img src="https://dcbadge.vercel.app/api/shield/459644548541448212?style=flat" alt="Phillip_J_Fry">
+    <br>
+    <img src="https://img.shields.io/discord/787063703025162507?label=TC-ESSENTIALS&logo=discord&logoColor=bruple&style=flat">
     <br>
     
   </p>
