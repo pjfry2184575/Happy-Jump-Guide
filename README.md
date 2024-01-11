@@ -16,7 +16,7 @@
     <br><br>
     Discord<br>
     <img src="https://dcbadge.vercel.app/api/shield/459644548541448212?style=flat" alt="Phillip_J_Fry">
-    <br>
+    <br>or<br>
     <img src="https://img.shields.io/discord/1075820592034500718?label=TC-ESSENTIALS&style=flat">
     <br>
   </p>
