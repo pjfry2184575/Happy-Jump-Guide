@@ -17,7 +17,7 @@
     On Discord<br>
     <img src="https://dcbadge.vercel.app/api/shield/459644548541448212?style=flat&logoColor=presence" alt="Phillip_J_Fry">
     <br>or in<br>
-    <img src="https://img.shields.io/discord/1075820592034500718?label=TC-ESSENTIALS&style=flat&logoColor=darkblue">
+    <img src="https://img.shields.io/discord/1075820592034500718?label=TC-ESSENTIALS&style=flat&logoColor=3333cc">
     <br>
   </p>
 </details>
