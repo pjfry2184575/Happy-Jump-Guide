@@ -1,14 +1,16 @@
 # Happy Jump Guide 
-
+<details>
+  <summary>License</summary>
+      <div align="center">
+<img src="https://gyazo.com/9b041112cbd095c8ab0d45fd1a71dbd3.png" alt="GPL-3.0">
+</div> 
+</details>
 
 <details>
   <summary>Deployment Status</summary>
   <p align="center">
     <img src="https://api.netlify.com/api/v1/badges/97101fdf-0136-4b5f-800a-d9ef7339c034/deploy-status" alt="Netlify Status">
     <br>
-    <div align="center">
-<img src="https://gyazo.com/9add96d1baa560ac486468d33c5aba15.png" alt="GPL-3.0">
-</div>
   </p>
 </details>
 
