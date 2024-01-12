@@ -1,6 +1,7 @@
 # Happy Jump Guide 
 <div align="center">
 <img src="https://gyazo.com/9add96d1baa560ac486468d33c5aba15.png" alt="GPL-3.0">
+</div>
 
 <details>
   <summary>Deployment Status</summary>
