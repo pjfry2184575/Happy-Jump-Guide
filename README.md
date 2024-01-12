@@ -3,10 +3,10 @@ How to: Happy Jump
 
 Learn how to properly do 3 different Happy Jumps!
 
-Including:
-• Lollipop Jumps
-• Choco Jumps 
-• DVD Jumps
+Including:<br>
+• Lollipop Jumps<br>
+• Choco Jumps<br> 
+• DVD Jumps<br>
 
 <details>
   <summary>License</summary>
