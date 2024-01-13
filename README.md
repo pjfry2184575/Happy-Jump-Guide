@@ -11,7 +11,7 @@ Including:<br>
 <details>
   <summary>License</summary>
       <div align="center">
-<img src="https://gyazo.com/9b041112cbd095c8ab0d45fd1a71dbd3.png" alt="GPL-3.0">
+<img src="https://gyazo.com/62c9a672518858ff85fa2d8271e9336f.png" alt="Apache 2.0">
 </div> 
 </details>
 
